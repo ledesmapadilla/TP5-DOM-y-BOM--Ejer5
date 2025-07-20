@@ -5,7 +5,7 @@
 En este repositorio vamos a resolver el quinto ejercicio para practicar BOM
 # 🎇 Demo del proyecto.
 
-Para poder ver el proyecto, entrá 👉 [Aqui] 
+Para poder ver el proyecto, entrá 👉 [Aqui] https://tp5-ejercicio5-ignaciolp.netlify.app/
 
 # 💡Tecnologias utilizadas:
 
