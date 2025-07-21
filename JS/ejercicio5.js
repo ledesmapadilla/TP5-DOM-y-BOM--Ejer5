@@ -2,6 +2,8 @@ const btnIniciar = document.querySelector(`.btn-danger`);
 const btnPausar = document.querySelector(`.btn-primary`);
 const btnResetear = document.querySelector(`.btn-success`);
 const textContador = document.querySelector(`.fw-semibold`);
+
+
 /* deshabilitar botones */
 
 const deshabilitarBotones = () => {
@@ -21,8 +23,7 @@ btnIniciar.addEventListener(`click`, () => {
   btnResetear.disabled = true;
 
   /* arrancar contador */
-  /* traigo el contador = 0 */
-  /* const textContador = document.querySelector(`.fw-semibold`); */
+  
   console.log(textContador);
   /* creo el contador */
   /*  let contador = 0; */
